@@ -53,10 +53,6 @@
   text-underline-offset: 4px;
 }
 
-.adress_text {
-  padding-left: 195px;
-}
-
 .overlay {
   position: absolute;
   inset: 0;
